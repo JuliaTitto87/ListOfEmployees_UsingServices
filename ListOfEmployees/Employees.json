@@ -1,0 +1,14 @@
+[
+  {
+    "PersonnelNumber": 230055,
+    "FullName": "Иванов Иван Иванович",
+    "Department": "ОГТ",
+    "EmployeesPosition": "Начальник бюро"
+  },
+  {
+    "PersonnelNumber": 123456,
+    "FullName": "Семенов Семен Семенович",
+    "Department": "ОСТ угк",
+    "EmployeesPosition": "Инженер-конструктор"
+  }
+]
